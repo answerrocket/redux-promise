@@ -1,5 +1,5 @@
 {
-  "name": "redux-promise",
+  "name": "@benmosher/redux-promise",
   "version": "0.6.0",
   "description": "FSA-compliant promise middleware for Redux.",
   "main": "lib/index.js",
